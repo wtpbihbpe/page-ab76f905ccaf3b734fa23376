@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "55596cd503aa724b10c10df3",
+  "owner": "wtpbihbpe",
+  "repo": "page-ab76f905ccaf3b734fa23376",
+  "title": "蚂蚁云流量",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ab76f905ccaf3b734fa23376",
+      "a": "蚂蚁云流量",
+      "b": "机场官网线路发布页",
+      "entity": "蚂蚁云流量",
+      "brand": "蚂蚁云流量",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "37c666a010dacda4a985406eb3bdacfdd785a2f4e2451e0bae33866e88d5e2c7",
+      "content": {
+        "primary_entity": "蚂蚁云流量",
+        "keyword1": "蚂蚁云流量",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，蚂蚁云流量围绕多设备在线与订阅配置搭建了基础版、旗舰版和团队版。基础版每月 100GB 流量，适合三台设备日常使用；旗舰版每月 300GB，支持五台设备，并加入 IPLC 专线游戏加速优化；团队版每月 1000GB，可让二十台设备同时在线，支持企业定制路由与专属客户经理。订阅周期按年付费更划算，搭配对应客户端导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅与套餐按需选择",
+          "AI_HERO_INTRO": "蚂蚁云流量提供面向个人与团队的海外加速订阅，按流量用量和设备数量划分基础版、旗舰版和团队版。三个套餐分别对应三台、五台和二十台设备在线，适合手机、电脑、路由器等常见客户端配置。",
+          "AI_VISUAL_TITLE": "蚂蚁云流量套餐导航",
+          "AI_HIGHLIGHT_1": "三档套餐匹配设备数量",
+          "AI_HIGHLIGHT_2": "年付方案降低月均成本",
+          "AI_HIGHLIGHT_3": "IPLC 专线适合游戏加速",
+          "AI_FEATURES_TITLE": "套餐与设备搭配要点",
+          "AI_FEATURES_INTRO": "结合固定套餐配置，从流量、设备数量和线路类型出发，帮助快速找到适合的订阅档位。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，日常用量与团队规模决定档位。",
+          "AI_FEATURE_TITLE_2": "按设备数挑档",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台，路由器共享时尤其要留意数量。",
+          "AI_FEATURE_TITLE_3": "长期订阅更划算",
+          "AI_FEATURE_TEXT_3": "三个套餐均可按年付费，年付价格低于逐月支付累计金额，适合打算长期使用的用户。",
+          "AI_CLIENTS_TITLE": "客户端选择与订阅导入",
+          "AI_CLIENTS_INTRO": "手机端可选 Clash for Android、Shadowrocket、Quantumult X 等常见客户端；电脑端可选择 Clash Verge、Clash for Windows、V2RayN 等；路由器与更多平台建议查阅对应客户端的订阅导入文档，按提示填写订阅地址。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量和设备数选择即可。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确定所需流量与设备数量，再确认客户端兼容条件，最后依照客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "确定套餐档位",
+          "AI_STEP_TEXT_1": "根据每月流量预算和设备在线数量，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TITLE_2": "核对适配条件",
+          "AI_STEP_TEXT_2": "确认设备系统与所选客户端版本是否满足订阅导入要求。",
+          "AI_STEP_TITLE_3": "导入订阅使用",
+          "AI_STEP_TEXT_3": "在客户端中按照对应文档填写订阅地址并保存，随后按客户端提示完成导入流程。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "蚂蚁云流量不同套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，并带 IPLC 专线；团队版每月 1000GB、20 台设备，支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版允许 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超过数量时新设备可能无法同时连接。",
+          "AI_FAQ_QUESTION_3": "按年付费和按月付费哪一个更合适？",
+          "AI_FAQ_ANSWER_3": "计划长期使用的用户可选择年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，通常比逐月累计更省。",
+          "AI_FAQ_QUESTION_4": "手机上应该用哪个客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "Android 可尝试 Clash for Android，iOS 常用 Shadowrocket 或 Quantumult X。各客户端填写订阅地址的方式不同，参照对应文档操作即可。",
+          "AI_FAQ_QUESTION_5": "游戏加速应该选择哪个套餐？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟较敏感的场景；团队版则提供 VIP 专属高带宽节点。",
+          "AI_CLOSING_TITLE": "选对套餐再出发",
+          "AI_CLOSING_TEXT": "比照流量与设备数量选定套餐，按客户端文档导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qsaxos.cn",
+    "host": "qsaxos.cn"
+  },
+  "file_hashes": {
+    "index.html": "77eb74234bd5be1a695d703d4f241242b175571040919b3c3e5aaf4a8787e429",
+    "sitemap.xml": "d74c12fefe54f9588ce3bd604b4b8b8fe439f2c1d4ce91f4d363acceffa46c31",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "028c7c15f8a7dab0d4d8318edd6a3cf8256b5ce0afa72831f59e70c046231f1a",
+    "robots.txt": "ff21aebd596087e45c5ee4c2a25ad535172495f3820c47d8853267f6118e2245",
+    "4a1e47d03f771eeeeea4c2158915cdc1.txt": "01946c5c5dde75b1b85bf67da46c9c17e02cb4b7e369be34d993eb55a8dd02fa"
+  },
+  "revision": "f77f91eebfb14c8d5326eea2efd9278ae50c3f25817f221e209604e791e48d67"
+}
